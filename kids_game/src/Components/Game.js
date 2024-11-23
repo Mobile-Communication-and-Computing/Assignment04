@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import animals from "../assets/data/AnimalsDb";
-import "../assets/css/style.css";
+import animals from "../Assets/Data/AnimalsDb";
+import "../Assets/css/style.css";
 
 export default function Game() {
   const [targetAnimal, setTargetAnimal] = useState(null);
