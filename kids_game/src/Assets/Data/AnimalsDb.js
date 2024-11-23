@@ -1,4 +1,4 @@
-export const animals=[
+const animals=[
     {name:'dog',img:'1.jpg'},
     {name:'rabbit',img:'2.jpg'},
     {name:'tiger',img:'3.jpg'},
@@ -16,3 +16,5 @@ export const animals=[
     {name:'hen',img:'15.jpg'},
     {name:'deer',img:'16.jpg'}
 ];
+
+export default animals;
